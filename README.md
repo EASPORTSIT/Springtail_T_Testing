@@ -1,2 +1,4 @@
 # Springtail_T_Testing
 North Dakota produces 6.5 tons of sugar beets annually, a staple crop facing challenges from the native springtail pest. In this experiment, radishes will replace sugar beets as they grow faster, and two treatments- undiluted white vinegar and neem oil- will be tested for their effectiveness in fending off springtails while preserving plant health.
+Intro:
+The Red River Valley, with nearly 3,000 sugar beet producers, faces a major challenge in the form of springtails - small, jumping arthropods that can damage sugar beet fields. As there is no specific pesticide for them, and complete eradication is impossible, this experiment aims to use radishes as a substitute for sugar beets and evaluate the efficacy of two treatments - white vinegar and Neem oil - in protecting the radishes.
